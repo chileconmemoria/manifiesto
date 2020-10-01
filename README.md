@@ -23,5 +23,8 @@ Se necesitan (al menos) personas que manejen temas de:
  * Ingreso de datos/noticias/información
  * Validación de información
  * Clasificación de la información
- * Exposición (aplicación/página pública)
+ * Exposición
+   * Aplicación
+   * Página pública
+   * Redes sociales
  * Respaldo y seguridad de la información
