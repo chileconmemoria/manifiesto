@@ -15,7 +15,7 @@ Se necesitan (al menos) personas que manejen temas de:
 * Software: para desarrollar diferentes sistemas que se detallan más adelante
 * Legal: para hacer todas las cosas bajo el marco legal, contener en caso de amenazas y saber interpretar la información existente o que vaya apareciendo.
 * Periodística: para asegurar la integridad de la información y obtener los datos a través de canales formales, entregando información fidedigna.
-* Difusión: generar información no es la solución completa, también se debe llegar a las personas de manera de concientizarlas de manera que disfruten participar del sistema democrático e incluso instarlas a participar en este proyecto.
+* Difusión: generar información no es la solución completa, también se debe llegar a las personas de manera de concientizarlas y que disfruten participar del sistema democrático e incluso instarlas a participar en este proyecto.
 
 ## Definición de solución propuesta (en progreso)
  Deben existir al menos los siguientes sistemas/aplicaciones
