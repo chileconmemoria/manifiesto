@@ -8,10 +8,16 @@ Las malas prácticas de estas personas se vuelven a repetir por diversos motivos
 
 La intención de este proyecto es ayudar a no volver a olvidar, no permitir que se entierre la mugre bajo la alfombra por nadie que ejerza un cargo público, agnósticos a cualquier bandera o color político. Tener un Chile con Memoria, con una población informada, soberana y digna.
 
-## Equipo técnico (definición en progreso)
-Mientras más personas, mejor.
+## Equipo (definición en progreso)
+Mientras más personas, mejor. No es necesario ser profesional o experto para ayudar a muchas labores del proyecto. Algunas tareas de ejemplo:
+* Difundir información: Redes Sociales, panfletos, asambleas, juntas de vecinos, etc.
+* Conversarle a amigos y familia de este proyecto.
+* Dar y recibir ideas.
+* Organizar reuniones.
+* Atraer personas al proyecto.
 
-Se necesitan (al menos) personas que manejen temas de:
+### Equipo técnico
+Para los aspectos más técnicos, se necesitan cubrir las siguientes áreas:
 * Software: para desarrollar diferentes sistemas que se detallan más adelante
 * Legal: para hacer todas las cosas bajo el marco legal, contener en caso de amenazas y saber interpretar la información existente o que vaya apareciendo.
 * Periodística: para asegurar la integridad de la información y obtener los datos a través de canales formales, entregando información fidedigna.
